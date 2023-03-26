@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Debug/net7.0/switch-case.dll",
+            "program": "${workspaceFolder}/variable/bin/Debug/net7.0/variable.dll",
             "args": [],
-            "cwd": "${workspaceFolder}",
+            "cwd": "${workspaceFolder}/variable",
             "console": "integratedTerminal",
             "stopAtEntry": false
         },
