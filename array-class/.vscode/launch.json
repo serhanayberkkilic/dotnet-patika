@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/variable/bin/Debug/net7.0/variable.dll",
+            "program": "${workspaceFolder}/bin/Debug/net7.0/array-class.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/variable",
+            "cwd": "${workspaceFolder}",
             "console": "integratedTerminal",
             "stopAtEntry": false
         },
